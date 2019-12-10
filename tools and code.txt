@@ -1,0 +1,36 @@
+Coding languages and other Tools to cover
+
+><
+Code
+    Pseudocode  // great coder and problem solver - use this well and for all coding and projects, get ahead as I develop my language skills
+    C++         // general programming principles 
+    Python      // scripting and ai 
+    Flutter     // mobile web and pwa's 
+    Excel       // res, small bus and my own use
+    Julia       // res and my own research
+
+Tools
+        Git
+        Powershell
+        Scripting
+        Data/Base
+        Cloud - Azure or other 
+        ai - Tensorflow
+    Res Tools and,
+    Small Business Tools
+    
+    Api's 
+    Ms Tools 
+        Sharepoint etc
+    Google 
+        G Suite etc
+
+        
+Note:   Do look at other languages and tools to see options and get familiar with what is out there. Stay open and explore.
+        
+        Docker
+        Go lang 
+        Aws Cloud and others
+        ... adjust as needed. 
+
+><
