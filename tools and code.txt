@@ -10,7 +10,7 @@ Code
     Julia       // res and my own research
 
 Tools
-        Git
+        Git and Github
         Powershell
         Scripting
         Data/Base
